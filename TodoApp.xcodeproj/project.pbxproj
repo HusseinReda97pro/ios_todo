@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		3B4B473A2CAE1050006A2F01 /* DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3B4B47382CAE1050006A2F01 /* DataModel.xcdatamodeld */; };
-		3BB14D532CA9F6C800A61331 /* item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB14D522CA9F6C800A61331 /* item.swift */; };
 		3BDAA4182CA74648001729BE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BDAA4172CA74648001729BE /* AppDelegate.swift */; };
 		3BDAA41A2CA74648001729BE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BDAA4192CA74648001729BE /* SceneDelegate.swift */; };
 		3BDAA41C2CA74648001729BE /* TodoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BDAA41B2CA74648001729BE /* TodoListViewController.swift */; };
@@ -19,7 +18,6 @@
 
 /* Begin PBXFileReference section */
 		3B4B47392CAE1050006A2F01 /* DataModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DataModel.xcdatamodel; sourceTree = "<group>"; };
-		3BB14D522CA9F6C800A61331 /* item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = item.swift; sourceTree = "<group>"; };
 		3BDAA4142CA74648001729BE /* TodoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BDAA4172CA74648001729BE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3BDAA4192CA74648001729BE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -45,7 +43,6 @@
 			isa = PBXGroup;
 			children = (
 				3B4B47382CAE1050006A2F01 /* DataModel.xcdatamodeld */,
-				3BB14D522CA9F6C800A61331 /* item.swift */,
 			);
 			path = "Data Model";
 			sourceTree = "<group>";
@@ -168,7 +165,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3BB14D532CA9F6C800A61331 /* item.swift in Sources */,
 				3B4B473A2CAE1050006A2F01 /* DataModel.xcdatamodeld in Sources */,
 				3BDAA41C2CA74648001729BE /* TodoListViewController.swift in Sources */,
 				3BDAA4182CA74648001729BE /* AppDelegate.swift in Sources */,
